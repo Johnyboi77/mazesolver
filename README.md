@@ -1,3 +1,5 @@
-I build a MAZE SOLVER!
+Practice Projekt:
 
-This is my first algorythm - project.
+A random maze will be generated, followed by a maze solver algorythm, which is findig the exit within seconds.
+   
+
